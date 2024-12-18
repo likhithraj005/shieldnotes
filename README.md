@@ -19,6 +19,7 @@ A secure notes web application with features like user management, role-based ac
 - **Database**: MySQL (Hosted on Aiven)
 - **Authentication**: JWT, OAuth2
 - **Security**: CSRF Protection, Multi-Factor Authentication
+- **Containerization**:Docker (for building and deploying the application)
 
 ## Deployment
 
