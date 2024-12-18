@@ -26,3 +26,6 @@ A secure notes web application with features like user management, role-based ac
 - **Backend (Spring Boot)**: Deployed on Render: https://note-deployment-latest.onrender.com
 - **Frontend (React)**: Deployed on Netlify: https://shieldnotes.netlify.app
 - **Database (MySQL)**: Hosted on Aiven Console
+
+## API Testing
+You can test the API endpoints using Postman: https://documenter.getpostman.com/view/29635048/2sAYJ1kMuA
