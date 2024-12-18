@@ -1,0 +1,10 @@
+# Ignore the Spring Boot target folder
+notes/target/
+
+# Ignore the React build folder
+secure-notes-react/build/
+
+# Ignore environment files
+notes/.env
+secure-notes-react/.env
+
