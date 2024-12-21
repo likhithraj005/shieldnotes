@@ -21,11 +21,29 @@ A secure notes web application with features like user management, role-based ac
 - **Security**: CSRF Protection, Multi-Factor Authentication
 - **Containerization**: Docker (for building and deploying the application)
 
+## Example Credentials
+
+To help you get started, here are example credentials for logging into the Secure Notes application:
+
+- **Username:** user1
+- **Password:** password1
+
+These credentials can be used to log in to the application and explore its features.
+
+
 ## Deployment
 
-- **Backend (Spring Boot)**: Deployed on Render: https://note-deployment-latest.onrender.com
+- **Backend (Spring Boot)**: Deployed on Render: https://note-deployment-latest.onrender.com ()
 - **Frontend (React)**: Deployed on Netlify: https://shieldnotes.netlify.app
 - **Database (MySQL)**: Hosted on Aiven Console
 
 ## API Testing
 You can test the API endpoints using Postman: https://documenter.getpostman.com/view/29635048/2sAYJ1kMuA
+
+## Note
+
+Please note that it may take 2-5 minutes for the REST APIs to fully render and fetch data. If you do not see the expected output, kindly reload the page after a few minutes to get the desired result.
+
+Thank you for your patience!
+
+
